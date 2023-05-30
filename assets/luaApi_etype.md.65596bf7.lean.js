@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as o,O as t}from"./chunks/framework.c6cc7639.js";const q=JSON.parse('{"title":"EType","description":"","frontmatter":{},"headers":[],"relativePath":"luaApi/etype.md","filePath":"luaApi/etype.md"}'),r={name:"luaApi/etype.md"},i=t("",410),n=[i];function h(d,l,s,c,p,u){return e(),o("div",null,n)}const m=a(r,[["render",h]]);export{q as __pageData,m as default};

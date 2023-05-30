@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,O as l}from"./chunks/framework.c6cc7639.js";const u=JSON.parse('{"title":"Role","description":"","frontmatter":{},"headers":[],"relativePath":"luaApi/role.md","filePath":"luaApi/role.md"}'),o={name:"luaApi/role.md"},d=l("",505),r=[d];function n(i,s,h,g,c,_){return e(),a("div",null,r)}const p=t(o,[["render",n]]);export{u as __pageData,p as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t}from"./chunks/framework.c6cc7639.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"luaApi/gameapi.md","filePath":"luaApi/gameapi.md"}'),p={name:"luaApi/gameapi.md"};function r(i,o,s,c,n,m){return e(),t("div")}const l=a(p,[["render",r]]);export{d as __pageData,l as default};

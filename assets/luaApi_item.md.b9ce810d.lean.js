@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,O as l}from"./chunks/framework.c6cc7639.js";const f=JSON.parse('{"title":"Item","description":"","frontmatter":{},"headers":[],"relativePath":"luaApi/item.md","filePath":"luaApi/item.md"}'),i={name:"luaApi/item.md"},o=l("",421),r=[o];function d(n,s,h,c,g,p){return e(),a("div",null,r)}const b=t(i,[["render",d]]);export{f as __pageData,b as default};
